@@ -30,28 +30,28 @@ Relevant Coursework
 
 PROJECT EXPERIENCE
 
-Gitlet
-* Developed a version control system in Java that mimics the basic features of Git
-* Implemented serialization to store file versions and different version branches
-* Enabled ability to organize files better and in a more linear version offline without Git
+* Gitlet
+	* Developed a version control system in Java that mimics the basic features of Git
+	* Implemented serialization to store file versions and different version branches
+	* Enabled ability to organize files better and in a more linear version offline without Git
 
-Parallel Processing and Optimization
-* Developed and optimized parallel algorithms and utilized multi-core processors and parallel computing frameworks
-* Designed and implemented a parallel processing solution for complex problem solving, significantly improving computational efficiency of computing arithmetic expressions
+* Parallel Processing and Optimization
+	* Developed and optimized parallel algorithms and utilized multi-core processors and parallel computing frameworks
+	* Designed and implemented a parallel processing solution for complex problem solving, significantly improving computational efficiency of computing arithmetic expressions
 
-Neural Networks
-* Designed and implemented a deep neural network model for image classification, achieving an accuracy of over 95% on a challenging dataset. 
-* The model consisted of multiple convolutional and fully connected layers, and fine-tuned hyperparameters to optimize its performance.
+* Neural Networks
+	* Designed and implemented a deep neural network model for image classification, achieving an accuracy of over 95% on a challenging dataset. 
+	* The model consisted of multiple convolutional and fully connected layers, and fine-tuned hyperparameters to optimize its performance.
 
 INTERNSHIP EXPERIENCE
 
-University of California, Irvine - Research Intern, School of Medicine
-* January 2023 – present
-* Developed program in R to optimize the efficiency of sorting and dissecting large datasets
-* Collaborated to identify key variables and data points to discover trends and patterns
+* University of California, Irvine - Research Intern, School of Medicine
+	* January 2023 – present
+	* Developed program in R to optimize the efficiency of sorting and dissecting large datasets
+	* Collaborated to identify key variables and data points to discover trends and patterns
 
-San Francisco State University - Research Intern, School of Engineering
-June 2018 – June 2021
-* Designed 3D models in Fusion 360 used for structural engineering research of beams
-* Investigated and evaluated different material types of elastic and rigid polylactic acid (PLA), a plant-based, biodegradable plastic, materials for 3D printing models
+* San Francisco State University - Research Intern, School of Engineering
+	* June 2018 – June 2021
+	* Designed 3D models in Fusion 360 used for structural engineering research of beams
+	* Investigated and evaluated different material types of elastic and rigid polylactic acid (PLA), a plant-based, biodegradable plastic, materials for 3D printing models
 
