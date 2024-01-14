@@ -28,7 +28,7 @@ Relevant Coursework
 * CS 189 – Introduction to Machine Learning
 * Biology, General Chemistry, Organic Chemistry, Genomics and Genetics
 
-<h6> PROJECT EXPERIENCE <h6>
+PROJECT EXPERIENCE
 
 Gitlet
 * Developed a version control system in Java that mimics the basic features of Git
