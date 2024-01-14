@@ -1,29 +1,21 @@
 CONTACT
 
- (415) 770-4769
+* (415) 770-4769
 
-allui.3011@berkeley.edu
-
-
+* allui.3011@berkeley.edu
 
 SKILLS
 
-Languages: Python, Java, C, R, RISC-V, SQL
+* Languages: Python, Java, C, R, RISC-V, SQL
 
-Software: Fusion 360, Excel
+* Software: Fusion 360, Excel
 
-
-
-
-REFERENCES
-
-Available upon request
-
-	EDUCATION
-
-University of California, Berkeley
-Computer Science, and Molecular and Cell Biology
-Expected Graduation: May 2025, GPA = 3.5
+EDUCATION
+* Lowell High School, San Francisco
+	* Attended from 2017 - 2021, GPA = 4.4
+* University of California, Berkeley
+	* Majoring in Computer Science, and Molecular and Cell Biology
+	* Expected Graduation: May 2025, GPA = 3.5
 
 Relevant Coursework
 •	CS 61A – Structure & Interpretation of Computer Programs
